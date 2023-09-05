@@ -8,5 +8,5 @@ For all related questions and discussions about this project, check out the disc
 
 ## DEMO
 
-https://github.com/granam180/fullstack-ecommerce/assets/6617264/f51df2fc-6c72-4ac6-914e-db9513440d2a
+https://github.com/granam180/fullstack-ecommerce/assets/6617264/9789cd43-1cc4-4427-94b9-4f704268092d
 
