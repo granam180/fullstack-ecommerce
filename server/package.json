@@ -1,0 +1,33 @@
+{
+  "name": "strapi-ecommerce",
+  "private": true,
+  "version": "0.1.0",
+  "description": "A Strapi application",
+  "scripts": {
+    "develop": "strapi develop",
+    "start": "strapi start",
+    "build": "strapi build",
+    "strapi": "strapi"
+  },
+  "dependencies": {
+    "@strapi/plugin-i18n": "latest",
+    "@strapi/plugin-users-permissions": "latest",
+    "@strapi/strapi": "latest",
+    "better-sqlite3": "^7.4.6",
+    "stripe": "latest"
+  },
+  "author": {
+    "name": "A Strapi developer"
+  },
+  "strapi": {
+    "uuid": "dbf8fb02-b0a7-4358-be31-b9bad772b341"
+  },
+  "engines": {
+    "node": ">=14.19.1 <=20.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@flydotio/dockerfile": "^0.4.8"
+  }
+}
