@@ -1,6 +1,6 @@
 # React Ecommerce App
 
-Build a FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payment
+FULLSTACK React Ecommerce App that is fully Responsive with Stripe Payment
 
 Video: https://www.youtube.com/watch?v=EBCdyQ_HFMo
 
